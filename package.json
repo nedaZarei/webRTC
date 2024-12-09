@@ -1,0 +1,13 @@
+{
+  "name": "webrtc-presentation",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "firebase": "^11.0.2"
+  },
+  "devDependencies": {
+    "vite": "^6.0.3"
+  }
+}
